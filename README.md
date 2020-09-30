@@ -1,4 +1,4 @@
-# genomics
+# Genomic Search Engine
 Comparison based DNA tests with user determined error tolerance; processing of FASTA files. Completed for a project at UCLA.
 
 - data --		Includes real FASTA files
